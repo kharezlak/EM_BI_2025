@@ -4,8 +4,8 @@ EM_BI_2025 Jupyter Notebooks with the code described in the paper "Towards Impro
 # Data Preparation Instructions
 
 Before using the GazeBase dataset for experiments defined in notebooks:
- - BioEyeCrossValidation.ipynb
- - BioEyeFunctions.ipynb
+ - EM_BI_CrossValidation.ipynb
+ - EM_BI_Functions.ipynb
 
 please follow these steps to ensure the data is properly organized:
 
